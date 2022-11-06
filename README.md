@@ -29,7 +29,7 @@ The project was designed to learn and get experience with the following things:
 
 ### UML Class Diagram
 The diagram that I have made at the start of the project to determine the architecture of the program.
-![Class Diagram](https://github.com/BasWalhout/CPU-Ray-Tracer/Images/ClassDiagram.jpg "Class Diagram")
+![Class Diagram](https://github.com/BasWalhout/CPU-Ray-Tracer/tree/main/Images/ClassDiagram.jpg "Class Diagram")
 
 ## Project Result
 The renderer that I implemented during the project, a whitted-style ray tracer, is capable of rendering a static 3D scene from a static viewpoint.
@@ -38,7 +38,7 @@ Shading is calcualated according to the Blinn-Phong shading model and (perfect) 
 I started on the implementation of a Bounding-Volume-Hierarchy spation data structure to be able to optimize the efficiency of ray intersection tests.
 However, I was unable to get it working correctly before the deadline of the project.
 
-![Result](https://github.com/BasWalhout/CPU-Ray-Tracer/Images/Shading_Fresnell_0.jpg "Result: Fresnell")
-![Result](https://github.com/BasWalhout/CPU-Ray-Tracer/Images/Shading_Refraction_1.jpg "Result: Refraction")
-![Result](https://github.com/BasWalhout/CPU-Ray-Tracer/Images/WhittedSceneRecreation.jpg "Result: Whitted Scene Recreation")
-![Result](https://github.com/BasWalhout/CPU-Ray-Tracer/Images/Intersection_Box_2.jpg "Result: Intersection with Sphere, Plane, and Cuboid")
+![Result](https://github.com/BasWalhout/CPU-Ray-Tracer/tree/main/Images/Shading_Fresnell_0.jpg "Result: Fresnell")
+![Result](https://github.com/BasWalhout/CPU-Ray-Tracer/tree/main/Images/Shading_Refraction_1.jpg "Result: Refraction")
+![Result](https://github.com/BasWalhout/CPU-Ray-Tracer/tree/main/Images/WhittedSceneRecreation.jpg "Result: Whitted Scene Recreation")
+![Result](https://github.com/BasWalhout/CPU-Ray-Tracer/tree/main/Images/Intersection_Box_2.jpg "Result: Intersection with Sphere, Plane, and Cuboid")
