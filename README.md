@@ -1,5 +1,10 @@
 # CPU-Ray-Tracer
 
+## Table of Contents
+**[How to create a workspace/solution](#how-to-create-a-workspacesolution)**<br>
+**[UML Class Diagram](#uml-class-diagram)**<br>
+**[Project Result](#project-result)**<br>
+
 CPU Ray Tracer is a project made during the second quarter (8 weeks) of the first year of my study.
 The project was designed to learn and get experience with the following things:
 - UML diagrams
